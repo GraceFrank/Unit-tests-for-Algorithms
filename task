@@ -1,0 +1,3 @@
+Write a function that takes in two arrays of numbers as parameters: array and excluded, 
+and it returns a new new array of some of elements of array that are not inside 
+excluded array. 

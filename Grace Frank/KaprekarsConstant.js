@@ -1,8 +1,8 @@
-function KaprekarsConstant(){
+function kaprekarsConstant(){
 
     //code goes here
-    
+
 
 }
 
-module.exports = KaprekarsConstant;
+module.exports = kaprekarsConstant;

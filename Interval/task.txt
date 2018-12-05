@@ -1,5 +1,9 @@
 Create a function that takes in an array and returns an array of two arrays.
+<<<<<<< HEAD
 The function should arrange it's argument in ascending order, and find the difference between 
+=======
+The function should arrange it argument in ascending order, and find the difference between 
+>>>>>>> 17099af6c2b2099508e7d4acd3473ec369fbfa58
 two consecutive index in the array.
 the first array returned should hold the difference if it is even.
 the second array returned should hold the difference if it is odd. 
@@ -9,6 +13,10 @@ the second array returned should hold the difference if it is odd.
 Example
 function([1,2,5,6,8,10]) returns [[2], [1,1,]]
 function(([3,1])) returns ([ [ 2 ], [] ])
+<<<<<<< HEAD
 function([-2,0,-3,-5])) returns ([ [], [-1, 5] ])
 
 
+=======
+function([-2,0,-3,-5])) returns ([ [], [-1, 5] ]) 
+>>>>>>> 17099af6c2b2099508e7d4acd3473ec369fbfa58

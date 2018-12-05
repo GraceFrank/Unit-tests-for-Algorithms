@@ -1,7 +1,0 @@
-Write a JavaScript function that takes a string as a parameter, 
-
-It removes the vowels and return the remaining elements as string and sorted.
-
-
-removeVowels('joshua') => 'hjs'
-removeVowels('intermediate') => 'dmnrtt';

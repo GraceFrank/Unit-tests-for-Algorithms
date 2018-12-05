@@ -1,6 +1,0 @@
-Write a JavaScript function to test if a number is a power of 2
-
-
-powerOfTwo(56) => false;
-powerOfTwo(32) => true;
-powerOfTwo('56') => NaN;

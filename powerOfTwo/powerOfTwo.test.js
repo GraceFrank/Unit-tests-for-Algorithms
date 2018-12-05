@@ -1,8 +1,8 @@
 
 const powerOfTwo = require('./powerOfTwo');
 
-test('0 is a power of 2', () => {
-  expect(powerOfTwo(0)).toBe(true);
+test('0 is not a power of 2', () => {
+  expect(powerOfTwo(0)).toBe(false);
 });
 
 test('a string should give NaN', () => {
@@ -29,7 +29,15 @@ test('0.125 is a power of 2', () => {
   expect(powerOfTwo(0.125)).toBe(true);
 });
 
+test('1 is a power of 2', () => {
+  expect(powerOfTwo(1)).toBe(true);
+});
 
+test('0.03125 is a power of 2', () => {
+  expect(powerOfTwo(0.03125)).toBe(true);
+});
 
-
+test('1.4142135623730951 is a power of 2', () => {
+  expect(powerOfTwo(1.4142135623730951)).toBe(true);
+});
 

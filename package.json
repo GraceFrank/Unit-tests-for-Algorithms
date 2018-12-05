@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "decacolabodareezegrace",
   "version": "1.0.0",
   "description": "welcome all developers am looking foward to seeing your contributions!\r cheers!",
@@ -16,4 +17,18 @@
     "url": "https://github.com/GraceFrank/decaColaboDareEzeGRace/issues"
   },
   "homepage": "https://github.com/GraceFrank/decaColaboDareEzeGRace#readme"
+=======
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "evenInterval.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+>>>>>>> 08c558f3ebd98fb7b9dc0ec6b114b5f77432ddc8
 }

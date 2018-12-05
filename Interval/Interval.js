@@ -1,5 +1,5 @@
-function Interval(arr) {
+function interval(arr) {
     // Add your code here
 }
 
-module.exports = Interval;
+module.exports = interval;
